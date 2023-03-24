@@ -1,0 +1,3 @@
+//listado de carpetas o archivos que no deseamos se suban por el momento
+
+db.sqlite3
